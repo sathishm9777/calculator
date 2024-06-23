@@ -1,0 +1,83 @@
+
+
+.box{
+    width: 270px;
+    background-color: rgb(75, 78, 78);
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px 40%;
+    border-style:solid;
+    box-shadow: 10px 15px;
+}
+.t{
+    border-radius: 5px;
+   
+}
+#s{
+    margin: 0px 25px;
+    color: azure;
+}
+#display{
+    width: 100%;
+    padding: 7px;
+
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+}
+
+.btn{
+    background: rgb(193, 111, 140);
+    width: 60px;
+}
+.btn1{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+    background:  rgb(153, 153, 224);
+    
+}
+.btn2{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+    background:  rgb(153, 153, 224);
+}
+.btn3{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+    background: rgb(153, 153, 224);
+}
+.btn4{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+    background: rgb(153, 153, 224);
+}
+.btn0{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+    background: rgb(210, 227, 113);
+}
+#main-div{
+    width: 60px;
+    height: 60px;
+}
